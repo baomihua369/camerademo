@@ -1,0 +1,2 @@
+rootProject.name = "Xiaomi_Sliding_ function_indicator"
+include ':app'
